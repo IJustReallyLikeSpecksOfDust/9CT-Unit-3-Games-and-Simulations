@@ -96,3 +96,6 @@ No online functionality is required. Save data should always be safe so long as 
 ### =--=--=--=--=--=--=--=
 ## Consideration of Social Issues
 ### =--=--=--=--=--=--=--=
+
+- ### Equity
+Equity means that every person, regardless of any differences, has an equal, fair shot at accomplishments, usually achieved by raising those naturally disadvantaged by society up. In games, this typically means accessibility options.
