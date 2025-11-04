@@ -136,3 +136,18 @@ If, in development, I suspect any cultural symbols have been accidentally added,
 |**Hollow Knight: Silksong**           ![image](images/HKSS.png)              | The game improves on its predecessor in many, many waves. Hornet is a reactive character with moves that almost entirely feel great to use as there is no time between button press and in game action. The world of Pharloom is absolutely, undoubtedly beautiful with a wide variety of locations all weaving together a vague yet impactful narrative by the end. The music is also immaculate and it enhances the game’s atmosphere, which is already one of its many strong suits. The game is good and the pride of the genre. | 2x damage to parkour failures is idiotic. Boss runbacks aren’t fun. A few bosses suck.                                                                                                                                                  | Silksong is the inspiration behind making this game somewhat open, and I will take design notes wherever needed, especially in character control. I will try to add music to the game, even if just stock music, and the pixel art will be inspired by some HK areas too. I also won’t incorporate double damage at all. |   |
 |**Pokemon Legends: ZA**           ![image](images/PLZA.png)                 | It’s a brilliant evolution of the series in its revitalised, amazing battle system which helps to immerse players in the world, and provide something new to a franchise which has maintained similar gameplay for decades. The new evolutions on old creatures are exciting and fun, with many of the designs being absolute BANGERS, and there is graphical improvement from previous games. Overall, the game is extremely innovative compared to the rest of the pokemon franchise, making for an excellent experience.          | The game suffers from some of the common flaws in the pokemon franchise. Excessive, unskippable dialogue will become annoying on future playthroughs and manyparts of the game are graphically inconsistent, and most textures are more or less repulsive. Also, a few new megas are bad. | I should take note of the inconsistencies of the game to ensure I don’t repeat them, and as such make my game consistent in quality throughout. Dialogue in my game will be mostly optional, and short. I will try to come up with interesting ideas to use in the game, so that things remain interesting throughout. My game's charming 2d pixel art, while not placing emphasis on graphics, will be quite detailed.   |   |
 
+
+
+### =--=--=--=--=--=--=--=
+## Storyboards
+### =--=--=--=--=--=--=--=
+
+
+## **Random Area**
+![image](images/RAS.jpeg)
+
+## **Main Menu**
+![image](images/MMS.jpeg)
+
+## **Full Game**
+![image](images/Full_Game_Storyboard_Flowchart_Thing.png)
